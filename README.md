@@ -6,6 +6,6 @@ This my project
 
 initialize git repository
 
-```bash
+```html
 git init
 ```
